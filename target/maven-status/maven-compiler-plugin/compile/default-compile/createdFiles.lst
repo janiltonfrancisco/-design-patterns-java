@@ -1,0 +1,9 @@
+br\com\veiculos\AceleracaoSuave.class
+br\com\veiculos\FrenagemPadrao.class
+br\com\veiculos\AceleracaoPotente.class
+br\com\veiculos\MainVeiculoComStrategy.class
+br\com\veiculos\Moto.class
+br\com\veiculos\Veiculo.class
+br\com\veiculos\ComportamentoFrenagem.class
+br\com\veiculos\Carro.class
+br\com\veiculos\ComportamentoAceleracao.class
